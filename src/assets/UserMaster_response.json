@@ -1,0 +1,4 @@
+[
+    { "UserMaster_Code": "ADMIN", "UserName": "Admin User" },
+    { "UserMaster_Code": "SALESPERSON", "UserName": "Sales Person" }
+]

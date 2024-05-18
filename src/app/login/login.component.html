@@ -1,0 +1,21 @@
+<body>
+    
+
+<div class="login-container">
+    <h1>Login</h1>
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+        <!-- <input type="text" placeholder="Email or Username" required> -->
+        <div>
+            <label for="username">Username</label>
+            <select formControlName="username">
+                <option value="null" selected disabled>--Select User--</option>
+                <option *ngFor="let user of userList" [value]="user.UserMaster_Code" >{{user.UserName}}</option>
+                
+            </select>         
+          </div>
+        
+        <button type="submit" [disabled]="loginForm.invalid">Login</button>
+    </form>
+</div>
+
+</body>

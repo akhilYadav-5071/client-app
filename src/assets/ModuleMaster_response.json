@@ -1,0 +1,10 @@
+[
+    { "Module_Code": "M1", "ModuleName": "Masters" },
+    { "Module_Code": "M2", "ModuleName": "Transactions" },
+    { "Module_Code": "M3", "ModuleName": "Sales" },
+    { "Module_Code": "M4", "ModuleName": "Marketing" },
+    { "Module_Code": "M5", "ModuleName": "Purchase" },
+    { "Module_Code": "M6", "ModuleName": "Invoice" },
+    { "Module_Code": "M7", "ModuleName": "Sales Transactions" },
+    { "Module_Code": "M8", "ModuleName": "Purchase Transactions" }
+]
