@@ -7,13 +7,7 @@
 
 <body>
   <div class="sidebar">
-    <!-- <div
-      [ngClass]="{ active: selectedTab == item.ModuleName }"
-      *ngFor="let item of menu"
-      type="button"
-      (click)="setSelectedTab(item.ModuleName)"
-      > <label>{{ item.ModuleName }}</label>  <label *ngIf="item.children.length" ></label></div
-    > -->
+   
     <mat-tree
       [dataSource]="menu"
       [treeControl]="treeControl"
