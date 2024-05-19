@@ -7,7 +7,9 @@
     { "UserMaster_Code": "ADMIN", "Module_Code": "M6" },
     { "UserMaster_Code": "ADMIN", "Module_Code": "M7" },
     { "UserMaster_Code": "ADMIN", "Module_Code": "M8" },
+    { "UserMaster_Code": "SALESPERSON", "Module_Code": "M1" },
     { "UserMaster_Code": "SALESPERSON", "Module_Code": "M2" },
     { "UserMaster_Code": "SALESPERSON", "Module_Code": "M3" },
-    { "UserMaster_Code": "SALESPERSON", "Module_Code": "M4" }
+    { "UserMaster_Code": "SALESPERSON", "Module_Code": "M4" },
+    { "UserMaster_Code": "SALESPERSON", "Module_Code": "M7" }
 ]
